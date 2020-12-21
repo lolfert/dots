@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/etc/runit/sv/wpa_supplicant'
+let g:netrw_dirhist_1='/home/luke/.config/termite'
